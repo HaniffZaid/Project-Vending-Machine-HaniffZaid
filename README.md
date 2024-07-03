@@ -134,7 +134,7 @@ My project HANIFFZAID_VM is bootstrapped by:
 
 ```mermaid
 graph TD;
-    A(Start HANIFFZAID_VM)--Yes-->B(Buy a drink);
+    A(Start HANIFFZAID_VM)--YES-->B(Buy a drink);
     B--YES-->C(Add money);
     B--NO-->D(Quit);
     C--NO-->D;
@@ -144,6 +144,7 @@ graph TD;
     G--NO-->F;
     G--YES-->H(Get return money);
 ```
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
